@@ -1,1 +1,5 @@
-This repo contains a script to print my stepik id
+### stepik-id-printer
+<br>
+Это проект для вывода моего персонального идентификатора на образовательной платформе stepik.org. username.sh выводит имя.
+## Возможности
+<br>
