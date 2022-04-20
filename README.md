@@ -1,4 +1,5 @@
 # stepik-id-printer
+![image](https://user-images.githubusercontent.com/40347560/164163366-3704a361-c66a-4052-a69f-73502530920b.png)
 Это проект для вывода моего персонального идентификатора на _образовательной платформе_ ```stepik.org```.
 username.sh выводит имя.
 ## Возможности
